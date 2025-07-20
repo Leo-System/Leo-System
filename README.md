@@ -1,17 +1,63 @@
-<h1 align="center">Hello there!</h1>
-<h3 align="center">I am a RPA developer that do automations just to prove that boring things can be automated.</h3>
+<h1 align="center">👋 Olá, eu sou o Leonardo (Leo-System)</h1>
 
-- 🔭 I’m currently working on **Learning about UiPath.**
-
-- 👯 I’m looking to collaborate on **RPA projects**
-
-- 📫 How to reach me **Call me on linkedin**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Desenvolvedor RPA & Backend Java</b><br>
+  Apaixonado por automação de processos, otimização de fluxos de trabalho e desenvolvimento de soluções eficientes.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo-system&show_icons=true&theme=tokyonight&title_color=57e389&text_color=57e389&bg_color=1a5fb4&hide_border=true&locale=en" alt="leo-system" /></p>
+## 🚀 Sobre mim
+
+- 💻 **Desenvolvedor RPA** com experiência em Python (Playwright, Selenium, Pandas, Requests) para automação web, web scraping, manipulação de dados e integração com APIs REST.  
+- ☕ **Entusiasta de Backend, ainda mais com java**, estudando desenvolvimento de APIs REST, Spring Boot e boas práticas para arquiteturas robustas.  
+- 🔄 Gosto de **automatizar tarefas repetitivas** e **melhorar a produtividade**, seja com RPA ou soluções backend.  
+- 🎯 Meu objetivo é **unir RPA + Backend** para criar soluções completas que realmente agreguem valor.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**💡 Linguagens & Frameworks**
+- Python, Java, SQL  
+- Selenium, Playwright, Pandas, Requests  
+- Spring Boot (em aprendizado)  
+
+**⚙️ Automação & Integração**
+- RPA, Web Scraping  
+- APIs REST  
+- Manipulação de Excel e dados estruturados (JSON, XML, CSV)  
+
+**📦 Ferramentas & Outras Skills**
+- Git/GitHub, Docker (básico), Metodologias Ágeis (Scrum, Kanban)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo-System&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-System&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivos atuais
+
+✔️ **Aprimorar automações RPA com Python**  
+✔️ **Desenvolver APIs REST com Java & Spring Boot**  
+✔️ **Me tornar um profissional completo, transitando entre RPA e desenvolvimento backend**  
+
+---
+
+## 🌐 Onde me encontrar
+
+- 💼 [LinkedIn](https://br.linkedin.com/in/leonardo-enzo-lanzoni-inacio-59261a275)  
+- 🐙 [GitHub](https://github.com/Leo-System)  
+- ✉️ **Contato:** tenri123@protonmail.com  
+
+---
+
+<p align="center">
+  <i>“Automatizar para evoluir, desenvolver para transformar.”</i>
+</p>
